@@ -2,7 +2,7 @@
     "name": "postgresql-softvisio-int53",
     "version": "1.0.0",
     "private": true,
-    "description": "PostgreSQL int53 domain",
+    "description": "PostgreSQL int53 domain extension",
     "keywords": [
         "softvisio",
         "postgresql"

@@ -1,4 +1,4 @@
-# PostgreSQL int53 domain
+# PostgreSQL int53 domain extension
 
 ## Install / update / drop
 

@@ -1,5 +1,5 @@
-default_version = '1.0.0'
-comment = 'int53 domain'
+default_version = '1.0.1'
+comment = 'Int53 domain extension'
 requires = ''
 superuser = false
 # trusted = false
