@@ -1,0 +1,7 @@
+default_version = '1.0.0'
+comment = 'int53 domain'
+requires = ''
+superuser = false
+# trusted = false
+module_pathname = ''
+relocatable = true
